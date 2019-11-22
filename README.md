@@ -7,7 +7,6 @@ This repository contains the database schema, stored procedures and migration fi
 - The `function/` directory contains always the latest version of all functions and stored procedures.
 - The `migration/` directory contains all migration files.
 - The `schema/current.sql` file holds the latest version of the database schema.
-- The `manifest.sql` file contains a list of migration files in the order each the files should be executed.
 
 ## License
 
